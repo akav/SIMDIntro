@@ -4,7 +4,7 @@ using System.Numerics;
 
 namespace SIMDBenchmarks
 {
-    [DisassemblyDiagnoser(printAsm: true, printSource: true)]
+    [DisassemblyDiagnoser(printSource: true)]
     public class Integer
     {
         public static int intSlots = Vector<int>.Count;

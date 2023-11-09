@@ -4,7 +4,7 @@ using System.Numerics;
 
 namespace SIMDBenchmarks
 {
-    [DisassemblyDiagnoser(printAsm: true, printSource: true)]
+    [DisassemblyDiagnoser(printSource: true)]
     public class Mandelbrot
     {
         private Vector2 _bitMapSize;

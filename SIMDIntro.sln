@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SIMDIntro", "SIMDIntro\SIMD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SIMDBenchmarks", "SIMDBenchmarks\SIMDBenchmarks.csproj", "{E4F8D42D-87A3-457C-A89A-DC7A54CCA069}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchMarkDebug", "BenchMarkDebug\BenchMarkDebug.csproj", "{2B2BC07F-C4EA-463A-8B0A-3EAEA00DE7A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BenchMarkDebug", "BenchMarkDebug\BenchMarkDebug.csproj", "{2B2BC07F-C4EA-463A-8B0A-3EAEA00DE7A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
